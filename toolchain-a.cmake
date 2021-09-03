@@ -1,0 +1,1 @@
+find_program(CMAKE_CXX_COMPILER NAMES g++)
